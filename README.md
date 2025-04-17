@@ -15,7 +15,7 @@ Curious mind on a Quest | Student at PES University pursuing Business Analytics 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhilpmarihal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo

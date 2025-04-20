@@ -1,5 +1,5 @@
 # 💫 About Me:
-Curious mind on a Quest | Student at PES University pursuing Business Analytics |<br> 3🌟SQL & 1🌟 Python - Hacker Rank | VBA Excel | Tableau | Data Visualization
+Curious mind on a Quest | Student at PES University pursuing Business Analytics |<br> 5🌟SQL & 1🌟 Python - Hacker Rank | VBA Excel | Tableau | Data Visualization
 
 
 ## 🌐 Socials:
